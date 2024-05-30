@@ -1,0 +1,143 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.head{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 800px;
+    color: 
+    #363853;
+}
+.head a{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 400;
+}
+.head button{
+    width: 120px;
+    height: 50px;
+    background-color: #FF6838;
+    border: none;
+}
+.head a:hover{
+    color: #FF6838;
+}
+main{
+    display: flex;
+    margin-top: 50px;
+}
+.left .two{
+    color: #FF6838;
+}
+.left .one{
+    color: black;
+}
+.left{
+    text-align: start;
+    margin-top: 150px;
+}
+.left .ll{
+    font-size: 30px;
+    line-height: 60px;
+}
+.left button{
+    width: 150px;
+    height: 40px;
+    margin-top: 10px;
+    background-color: #FF6838;
+    border: none;
+}
+.left a{
+    margin-left: 10px;
+}
+.main{
+    display: flex;
+    margin-top: 50px;
+}
+.main button{
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+    border-bottom-left-radius: 18px;
+}
+.left .thre{
+    color: #FF6838;
+}
+.left .four {
+    color: black;
+}
+.section1 h1 {
+    text-align: center;
+    font-size: 55px;
+  }
+  .card {
+    width: 361px;
+    height: 299px;
+    margin: 30px;
+    margin-top: 150px;
+  }
+  .clock {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  h3 {
+    font-weight: 400;
+    font-size: 24px;
+    font-family: "Rubik";
+  }
+  .box {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .btn {
+    background-color: #ff7a50;
+    width: 79px;
+    height: 33px;
+    border: none;
+    border-bottom-left-radius: 18px;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+  }
+  .clock2 {
+    display: flex;
+    align-items: center;
+  }
+.foot{
+    display: flex;
+    align-items: center;
+    margin-top: 200px;
+}
+.fleft .mob{
+    color: #FF6838;
+}
+footer{
+    border-radius: 10px;
+    width: 1170px;
+    height: 380px;
+    margin: auto;
+    background-color: #FF6838;
+    margin-top: 200px;
+    padding: 10px;
+}
+footer h1{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    margin-top: 20px;
+}
+form input{
+    width: 838px;
+    height: 75px;
+    margin: auto;
+    border-radius: 50px;
+    margin-left: 170px;
+    margin-top: 50px;
+    border: none;
+}
+.footer{
+    margin-top: 100px;
+    margin-left: 50px;
+}
